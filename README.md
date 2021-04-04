@@ -13,3 +13,5 @@ Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
 4. Save and refresh your browser, and you should see the same thing! It works just the same, but now we've got our JavaScript in an external file. This is generally a good thing in terms of organizing your code and making it reusable across multiple HTML files. Plus, the HTML is easier to read without huge chunks of script dumped in it.
+
+Live web: https://gitthuma.github.io/external-javascript/
